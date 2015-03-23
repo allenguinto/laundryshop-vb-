@@ -1,0 +1,180 @@
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.history.resources
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\chuchu\New folder\lllllllll\Laundry\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.history.resources
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\123\Laundry\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.history.resources
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.history.resources
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\vb systems\laundry\Laundry\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\Laundry\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\Laundry\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\Laundry\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.history.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\Laundry\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\present\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\present\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\present\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.history.resources
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\present\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\vb systems\present\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\vb systems\present\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\vb systems\present\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.history.resources
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\march 10\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\march 10\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\march 10\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\march 10\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.history.resources
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\march 10- final - Copy\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.History.resources
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\copycopycopy\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\123456789\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\123456789\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\123456789\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.History.resources
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\123456789\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\latest\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\latest\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\latest\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.History.resources
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.Resources.resources
+C:\Users\hmrphils\Desktop\latest\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.customer.resources
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.History.resources
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.LoginForm1.resources
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.Release.resources
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.settings.resources
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.transaction.resources
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.Mainframe.resources
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.vbproj.GenerateResource.Cache
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\bin\Debug\Laundry.exe
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\bin\Debug\Laundry.pdb
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\bin\Debug\Laundry.xml
+C:\Users\hmrphils\Desktop\vb systems\latest\Laundry\obj\x86\Debug\Laundry.Resources.resources
